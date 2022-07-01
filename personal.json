@@ -1,0 +1,169 @@
+{
+  "info": {
+    "type": "webService",
+    "Proyect": "eTextil",
+    "version": "Movil 0.1"
+  },
+  "personal": [
+    {
+      "IdPersonal": "1",
+      "Nombre": "GRACIELA ARCOS VAZQUEZ",
+      "Telefono": "2311051552",
+      "Status": "Activo",
+      "Puesto": "Supervisor de calidad",
+      "Fotografia": "fernandez-graciela_65.jpg"
+    },
+    {
+      "IdPersonal": "2",
+      "Nombre": "ELVIRA ANTONIO OSORIO",
+      "Telefono": "2312056032",
+      "Status": "Permiso Determinado",
+      "Puesto": "Operario",
+      "Fotografia": "IMG_20190627_103649.jpg"
+    },
+    {
+      "IdPersonal": "3",
+      "Nombre": "DAVID ARELLANO ALCANTARA",
+      "Telefono": "N/T",
+      "Status": "Activo",
+      "Puesto": "Foleador",
+      "Fotografia": "IMG_20190627_085506.jpg"
+    },
+    {
+      "IdPersonal": "4",
+      "Nombre": "FLORENTINO BAUTISTA BAUTISTA",
+      "Telefono": "3 12 18 27",
+      "Status": "Activo",
+      "Puesto": "Manual",
+      "Fotografia": "20190627_165342.jpg"
+    },
+    {
+      "IdPersonal": "5",
+      "Nombre": "MARIA DEL ROSARIO CASIANO NICOLAS",
+      "Telefono": "31 2 30 48",
+      "Status": "Activo",
+      "Puesto": "Manual",
+      "Fotografia": "IMG_20190627_110226.jpg"
+    },
+    {
+      "IdPersonal": "6",
+      "Nombre": "ANA MELISSA COXCA ESPINA",
+      "Telefono": "2311440670",
+      "Status": "Activo",
+      "Puesto": "Operario",
+      "Fotografia": "IMG_20190627_105404.jpg"
+    },
+    {
+      "IdPersonal": "7",
+      "Nombre": "ALVARO CRUZ CRUZ",
+      "Telefono": "2312054599",
+      "Status": "Activo",
+      "Puesto": "Operario",
+      "Fotografia": "IMG_20190627_105321.jpg"
+    },
+    {
+      "IdPersonal": "8",
+      "Nombre": "CARLOS DE LA CRUZ BAUTISTA",
+      "Telefono": "2311383622",
+      "Status": "Activo",
+      "Puesto": "Vigilancia",
+      "Fotografia": "20190627_170005.jpg"
+    },
+    {
+      "IdPersonal": "9",
+      "Nombre": "JOSEFINA DIEGO LOPEZ",
+      "Telefono": "8121521255",
+      "Status": "Activo",
+      "Puesto": "Revisadora",
+      "Fotografia": "IMG_20190627_105715.jpg"
+    },
+    {
+      "IdPersonal": "10",
+      "Nombre": "LOURDES DOMINGUEZ HERNANDEZ",
+      "Telefono": "2311434823",
+      "Status": "Activo",
+      "Puesto": "Auxiliar de calidad",
+      "Fotografia": "IMG_20190627_110310.jpg"
+    },
+    {
+      "IdPersonal": "11",
+      "Nombre": "PAUL DOMINGUEZ SACRAMENTO",
+      "Telefono": "",
+      "Status": "Activo",
+      "Puesto": "Aduanadores",
+      "Fotografia": ""
+    },
+    {
+      "IdPersonal": "12",
+      "Nombre": "ISMAEL FERNANDEZ CASTRO",
+      "Telefono": "2311401966",
+      "Status": "Activo",
+      "Puesto": "Mantenimiento General",
+      "Fotografia": "20190627_165350.jpg"
+    },
+    {
+      "IdPersonal": "13",
+      "Nombre": "MARIA LUISA FLORES CASIANO",
+      "Telefono": "",
+      "Status": "Activo",
+      "Puesto": "Planchadores",
+      "Fotografia": "IMG_20190711_102938.jpg"
+    },
+    {
+      "IdPersonal": "14",
+      "Nombre": "JOSEFINA FLORES LOPEZ",
+      "Telefono": "2311747289",
+      "Status": "Activo",
+      "Puesto": "Operario",
+      "Fotografia": "IMG_20190627_104521.jpg"
+    },
+    {
+      "IdPersonal": "15",
+      "Nombre": "REBECA GARCIA CASIANO",
+      "Telefono": "2311224960",
+      "Status": "Activo",
+      "Puesto": "Auxiliar administrativo corte",
+      "Fotografia": "REBECA.jpg"
+    },
+    {
+      "IdPersonal": "16",
+      "Nombre": "FERNANDO GARCIA PEREZ",
+      "Telefono": "2311397859",
+      "Status": "Activo",
+      "Puesto": "Empacador en l\u00ednea",
+      "Fotografia": "IMG_20190627_110056.jpg"
+    },
+    {
+      "IdPersonal": "17",
+      "Nombre": "EUGENIO GONZALEZ SALAZAR",
+      "Telefono": "N/T",
+      "Status": "Activo",
+      "Puesto": "Mec\u00e1nico",
+      "Fotografia": "IMG_20190627_110034.jpg"
+    },
+    {
+      "IdPersonal": "18",
+      "Nombre": "MARIA JUDITH GONZALEZ VAZQUEZ",
+      "Telefono": "2311513193",
+      "Status": "Activo",
+      "Puesto": "Operario",
+      "Fotografia": "IMG_20190627_105059.jpg"
+    },
+    {
+      "IdPersonal": "19",
+      "Nombre": "VICTORINA HERNANDEZ AMARO",
+      "Telefono": "N/T",
+      "Status": "Activo",
+      "Puesto": "Planchadores",
+      "Fotografia": "IMG_20190627_090523.jpg"
+    },
+    {
+      "IdPersonal": "20",
+      "Nombre": "ALBERTO HERNANDEZ BELLO",
+      "Telefono": "",
+      "Status": "Activo",
+      "Puesto": "Empacadores",
+      "Fotografia": "IMG_20190627_085930.jpg"
+    }
+  ]
+}
